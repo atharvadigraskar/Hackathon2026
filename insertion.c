@@ -3,6 +3,7 @@
 int main()
 {
 	int a[50],size,i,pos,element;
+	printf("Hello world ");
 	printf("enter size of array=");
 	scanf("%d",&size);
 	printf("enter the array elements=");
